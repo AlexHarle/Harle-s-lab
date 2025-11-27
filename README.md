@@ -1,1 +1,1 @@
-# Harle-s-lab
+# ECLiPSE lab
